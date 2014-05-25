@@ -23,7 +23,8 @@ put UCI HAR Dataset folder in this main directory.
 
 set this main directory as your R working directory
 
-eg. setwd('C:\\getting_and_cleaning_data_course_project')
+eg. 
+    setwd('C:\\getting_and_cleaning_data_course_project')
 
     source('run_analysis.R')
 
