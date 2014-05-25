@@ -18,6 +18,10 @@ before running the run_analysis.R "**UCI HAR Dataset**" folder should be inside 
 
 
 ##How to run 
+* this project uses **sqldf** library, if you haven't installed, please install the sqldf before proceeding to next step.
+```sh
+install.packages('sqldf')
+```
 * put "**UCI HAR Dataset**" folder in this main directory, therefore the dataset folder should be under **getting_and_cleaning_data_course_project**
 
 eg.
