@@ -1,4 +1,3 @@
-setwd('D:\\Projects\\Coursera\\Getting and Cleaning Data\\CourseProject')
 source('get_file_path.R')
 dirsep<-.Platform$file.sep
 main_dir<-'UCI HAR Dataset'
