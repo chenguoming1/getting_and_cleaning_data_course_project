@@ -20,7 +20,11 @@ before running the run_analysis.R UCI HAR Dataset folder should be inside this m
 
 ##How to run 
 put UCI HAR Dataset folder in this main directory.
+
 set this main directory as your R working directory
+
 eg. setwd('C:\\getting_and_cleaning_data_course_project')
+
     source('run_analysis.R')
+
 when the execution finished, there will be file named tidydata.csv with  180x68 dimensions
